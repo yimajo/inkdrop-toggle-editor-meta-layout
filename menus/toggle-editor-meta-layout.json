@@ -2,7 +2,7 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle toggle-editor-meta-layout",
+        "label": "Toggle editor-meta-layout",
         "command": "toggle-editor-meta-layout:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Plugins",
       "submenu": [
         {
-          "label": "toggle-editor-meta-layout",
+          "label": "editor-meta-layout",
           "submenu": [
             {
               "label": "Toggle",
