@@ -1,0 +1,13 @@
+{
+  "name": "toggle-editor-meta-layout",
+  "main": "./lib/toggle-editor-meta-layout",
+  "version": "0.1.0",
+  "description": "A plugin to hide/show editor-meta-layout",
+  "keywords": [],
+  "repository": "https://github.com/yimajo/inkdrop-toggle-editor-meta-layout",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}

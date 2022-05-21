@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle toggle-editor-meta-layout",
+        "command": "toggle-editor-meta-layout:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "toggle-editor-meta-layout",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "toggle-editor-meta-layout:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

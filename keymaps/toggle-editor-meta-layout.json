@@ -1,0 +1,5 @@
+{
+  "body": {
+    "ctrl-alt-m": "toggle-editor-meta-layout:toggle"
+  }
+}
