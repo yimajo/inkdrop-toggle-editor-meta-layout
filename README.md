@@ -2,6 +2,8 @@
 
 [Inkdrop](https://www.inkdrop.app/) plugin.
 
+<img src="./images/video.gif" width="100%">
+
 Once installed, the `editor-meta-layout` will switch when the user selects a toggle in the menu or presses a shortcut key.
 
 ## Install
