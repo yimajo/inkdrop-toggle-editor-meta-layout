@@ -1,13 +1,13 @@
-# Inkdrop Toggle editor-meta-layout
+# Inkdrop Hide editor-meta-layout
 
 [Inkdrop](https://www.inkdrop.app/) plugin.
 
 <img src="./images/video.gif" width="100%">
 
-Once installed, the `editor-meta-layout` will switch when the user selects a toggle in the menu or presses a shortcut key.
+Enabling/disabling the plugin will automatically hide/show `editor-meta-layout` for you.
 
 ## Install
 
 ```
-ipm install toggle-editor-meta-layout
+ipm install hide-editor-meta-layout
 ```
