@@ -1,7 +1,7 @@
 {
   "name": "hide-editor-meta-layout",
   "main": "./lib/hide-editor-meta-layout",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A plugin to hide editor-meta-layout",
   "keywords": [],
   "repository": "https://github.com/yimajo/inkdrop-toggle-editor-meta-layout",
